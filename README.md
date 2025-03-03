@@ -27,7 +27,6 @@ Soy un desarrollador de software apasionado por la tecnología y el diseño de i
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aemdlcdev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemdlcdev&layout=compact&theme=radical)
 
 ---
