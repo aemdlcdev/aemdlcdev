@@ -33,9 +33,7 @@ Soy un desarrollador de software apasionado por la tecnología y el diseño de i
 
 ### 📫 Contáctame
 
-📩 **Email:** tuemail@example.com  
-🔗 **LinkedIn:** [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)  
-🐦 **Twitter:** [@tuusuario](https://twitter.com/tuusuario)  
-
+📩 **Email:** amdlcdev@gmail.com 
+🌍 **Portafolio:** aemdlcdev.github.io
 ¡Gracias por visitar mi perfil! 😊🚀
 
