@@ -25,12 +25,6 @@ Soy un desarrollador de software apasionado por la tecnología y el diseño de i
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemdlcdev&layout=compact&theme=radical)
-
----
-
 ### 📫 Contáctame
 
 📩 **Email:** amdlcdev@gmail.com |
